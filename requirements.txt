@@ -1,0 +1,14 @@
+numpy
+sqlitedict
+pandas
+scipy
+
+## packages used for CLI menu
+# climenu
+# tabulate
+
+## packages used for attacks
+# opencv-python
+# scikit-image
+# blend_modes
+# seaborn
